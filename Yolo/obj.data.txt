@@ -1,0 +1,9 @@
+classes=2
+
+train=C:\Users\Saurav Akolia\Desktop\u\hackerearth\EmotionDetection\Yolo\data\train.txt
+
+valid=C:\Users\Saurav Akolia\Desktop\u\hackerearth\EmotionDetection\Yolo\data\test.txt
+
+names=C:\Users\Saurav Akolia\Desktop\u\hackerearth\EmotionDetection\Yolo\data\obj.names
+
+backup=C:\Users\Saurav Akolia\Desktop\u\hackerearth\EmotionDetection\Yolo\backup
